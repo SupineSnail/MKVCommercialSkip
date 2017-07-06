@@ -1,0 +1,12 @@
+bin/
+Dependencies/Comskip/comskip.dictionary
+Dependencies/Comskip/comskip.txt
+Dependencies/Comskip/debugwindow.html
+Dependencies/Comskip/manual.html
+Dependencies/Comskip/tuning.html
+Dependencies/Comskip/readme.txt
+Dependencies/Comskip/TextFile1.txt
+Dependencies/Comskip/PostProcessing.bat
+obj/
+deploy/
+publish/
